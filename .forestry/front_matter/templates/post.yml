@@ -40,7 +40,7 @@ fields:
 - type: text
   name: canonical_url
   label: Canonical URL
-  description: 'The canonical url of the post, if post originates elsewhere.'
+  description: The canonical url of the post, if post originates elsewhere.
 - type: text
   name: layout
   label: Layout
@@ -49,12 +49,12 @@ fields:
   config:
     required: true
 pages:
-- posts/basic-rules-for-walking-in-the-mountains.md
-- posts/best-waves-surfing-spain.md
-- posts/fox-village-in-japan.md
-- posts/fragments-of-iceland.md
-- posts/grand-canyon.md
-- posts/interior-designer.md
-- posts/japan.md
-- posts/the-ride-in-the-woods.md
-- posts/working-from-home.md
+- content/posts/basic-rules-for-walking-in-the-mountains.md
+- content/posts/best-waves-surfing-spain.md
+- content/posts/fox-village-in-japan.md
+- content/posts/fragments-of-iceland.md
+- content/posts/grand-canyon.md
+- content/posts/interior-designer.md
+- content/posts/japan.md
+- content/posts/the-ride-in-the-woods.md
+- content/posts/working-from-home.md

@@ -32,6 +32,6 @@ fields:
   config:
     required: true
 pages:
-- about.md
-- style-guide.md
-- thank-you.md
+- content/about.md
+- content/style-guide.md
+- content/thank-you.md

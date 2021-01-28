@@ -20,4 +20,4 @@ fields:
   config:
     required: true
 pages:
-- blog/_index.md
+- content/blog/_index.md
