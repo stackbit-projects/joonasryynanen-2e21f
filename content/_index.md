@@ -12,11 +12,14 @@ sections:
     template: section_content
     title: About
     section_id: about
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: >
+      I am a Software Professional, MSc Student, oldest sibling, outdoors lover,
+      and a wellbeing enthusiast. Currently I am focusing on modern software
+      development and technical writing. My aspiration is to become an
+      influencer in the field of software. Outside of work and studying, you can
+      find me from outside walking, enjoying nature or maybe doing some
+      forest/farm work with my uncle and father.
+        
     actions:
       - type: action
         template: action
