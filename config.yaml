@@ -85,6 +85,7 @@ params:
       target="_blank" rel="noopener">Stackbit</a>. Create yours <a
       href="https://app.stackbit.com/create?theme=fresh&utm_source=deployed-footer"
       target="_blank" rel="noopener">now</a>
+  favicon: /images/edustuskuva.jpg
 taxonomies:
   stub: stub
 disableKinds:
