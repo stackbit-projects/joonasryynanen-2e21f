@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - type: section_hero
     template: section_hero
-    title: 'Hi, I''m Stackbit Fresh.'
+    title: 'Hi, I''m Joonas Ryynänen.'
     section_id: hero
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
