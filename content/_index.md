@@ -6,9 +6,8 @@ sections:
     template: section_hero
     title: 'Hi, I''m Joonas Ryynänen.'
     section_id: hero
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: |
+      Striving to live a healthy and balanced life in the busy software world.
   - type: section_content
     template: section_content
     title: About
