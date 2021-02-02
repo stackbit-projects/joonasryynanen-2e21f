@@ -12,7 +12,7 @@ sections:
     template: section_content
     title: Virkeän opiskelun ABC
     type: section_content
-  - title: lorem-ipsum
+  - title: tietoa
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
