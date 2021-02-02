@@ -12,7 +12,6 @@ sections:
 - type: document
   path: virkean-opiskelun-abc
   label: Virkeän opiskelun ABC
-  match: "**/*"
 - type: document
   path: content/blog/_index.md
   label: Blog
