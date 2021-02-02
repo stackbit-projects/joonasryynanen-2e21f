@@ -12,7 +12,7 @@ sections:
     template: section_content
     title: Virkeän opiskelun ABC
     type: section_content
-  - title: lorem-ipsum
+  - title: Liity mukaan!
     section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
