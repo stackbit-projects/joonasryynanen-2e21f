@@ -15,17 +15,9 @@ sections:
   - title: tietoa
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      Ilmainen nettikurssi parempaan jaksamiseen ja tehokkaampaan opiskeluun.
+      Voit suorittaa kurssia omaan tahtiin täysin ilmaiseksi.
     actions: []
     type: section_content
     template: section_content
