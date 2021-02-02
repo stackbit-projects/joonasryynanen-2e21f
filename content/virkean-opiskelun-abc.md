@@ -19,7 +19,7 @@ sections:
     form_id: liity
     form_action: aloita kurssi
     form_fields: []
-    submit_label: lorem-ipsum
+    submit_label: aloita kurssi
     type: section_form
     template: section_form
 ---
