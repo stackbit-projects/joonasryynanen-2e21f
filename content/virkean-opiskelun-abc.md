@@ -20,7 +20,7 @@ sections:
     form_action: aloita kurssi
     form_fields:
       - input_type: email
-        name: ''
+        name: email
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
