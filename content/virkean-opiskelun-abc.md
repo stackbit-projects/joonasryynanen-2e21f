@@ -22,7 +22,7 @@ sections:
       - input_type: email
         name: email
         label: 'sähköpostiosoite:'
-        default_value: lorem-ipsum
+        default_value: kirjoita sähköpostiosoitteesi...
         options: []
         is_required: false
         type: form_field
