@@ -5,7 +5,14 @@ hide_title: true
 layout: advanced
 title: Virkeän opiskelun ABC
 sections:
-  - actions: []
+  - actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        icon_class: lorem-ipsum
+        new_window: false
+        no_follow: false
+        type: action
     content: ''
     section_id: ''
     template: section_hero
