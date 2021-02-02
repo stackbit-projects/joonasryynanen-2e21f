@@ -18,7 +18,14 @@ sections:
       Anna sähköpostiosoitteesi, niin pääset mukaan kurssille ilmaiseksi:
     form_id: liity
     form_action: aloita kurssi
-    form_fields: []
+    form_fields:
+      - input_type: text
+        name: lorem-ipsum
+        label: lorem-ipsum
+        default_value: lorem-ipsum
+        options: []
+        is_required: false
+        type: form_field
     submit_label: aloita kurssi
     type: section_form
     template: section_form
