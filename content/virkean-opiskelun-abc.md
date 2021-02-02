@@ -10,6 +10,6 @@ sections:
     image_alt: ''
     section_id: ''
     template: section_content
-    title: ''
+    title: Virkeän opiskelun ABC
     type: section_content
 ---
