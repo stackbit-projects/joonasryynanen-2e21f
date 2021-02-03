@@ -1,5 +1,5 @@
 ---
-title: Virkeän opiskelun ABC
+title: Moduuli 3
 hide_title: true
 excerpt: ''
 sections:
