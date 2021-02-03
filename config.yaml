@@ -1,7 +1,7 @@
 title: Joonas Ryynänen
 baseURL: /
 params:
-  description: Personal blogging theme for Stackbit
+  description: ''
   layout_style: overflow
   palette: blue
   header:
