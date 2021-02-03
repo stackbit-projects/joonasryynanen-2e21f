@@ -8,7 +8,7 @@ params:
     type: header
     template: header
     title: Joonas Ryynänen
-    tagline: Header Tagline
+    tagline: Software Professional and MSc Student
     profile_img: /images/edustuskuva.jpg
     profile_img_alt: Author avatar
     background: dark
