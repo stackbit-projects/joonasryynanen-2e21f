@@ -43,8 +43,7 @@ sections:
     template: section_content
   - title: Liity mukaan!
     section_id: lorem-ipsum
-    content: |
-      Anna sähköpostiosoitteesi, niin pääset mukaan kurssille ilmaiseksi:
+    content: ''
     form_id: liity
     form_action: aloita kurssi
     form_fields:
