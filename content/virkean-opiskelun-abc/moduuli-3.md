@@ -3,7 +3,7 @@ title: Moduuli 3
 hide_title: true
 excerpt: ''
 sections:
-  - title: Virkeän opiskelun ABC
+  - title: ''
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
