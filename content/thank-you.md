@@ -1,5 +1,5 @@
 ---
-title: Thank You!
+title: tervetuloa
 img_path: images/thank-you.jpg
 img_alt: Thank You Led Signage
 layout: page
