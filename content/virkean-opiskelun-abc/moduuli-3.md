@@ -8,6 +8,10 @@ sections:
     image_alt: lorem-ipsum
     content: |
       # Moduuli 3: Etäopiskelu ja sen haasteet
+
+
+
+      Moduuli 3 sisältö
     actions: []
     type: section_content
     template: section_content
