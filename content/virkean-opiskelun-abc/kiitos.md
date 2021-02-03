@@ -3,7 +3,7 @@ title: Kiitos kurssille osallistumisesta!
 hide_title: true
 excerpt: ''
 sections:
-  - title: lorem-ipsum
+  - title: Kiitos kurssille osallistumisesta!
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
