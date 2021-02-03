@@ -7,7 +7,7 @@ params:
   header:
     type: header
     template: header
-    title: Stackbit Fresh
+    title: Joonas Ryynänen
     tagline: Header Tagline
     profile_img: /images/edustuskuva.jpg
     profile_img_alt: Author avatar
