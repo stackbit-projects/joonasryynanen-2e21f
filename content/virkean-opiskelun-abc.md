@@ -10,6 +10,34 @@ sections:
     content: >
       Ilmainen nettikurssi parempaan jaksamiseen ja tehokkaampaan opiskeluun.
       Voit suorittaa kurssia omaan tahtiin täysin ilmaiseksi.
+
+
+      ## Kurssin sisältö
+
+
+      Kurssi koostuu kolmesta moduulista:
+
+
+      *   Moduuli 1: Yleistä jaksamisesta ja virkeydestä
+
+
+      *   Moduuli 2: Tasapainon ja sopivan vaihtelun löytäminen
+
+
+      *   Moduuli 3: Etäopiskelu ja sen haasteet
+
+
+      Suosittelen suorittamaan moduulit järjestyksessä, mutta voit myös käydä ne
+      läpi kiinnostusjärjestyksessä!
+
+
+      ## Ilmoittautuminen
+
+
+      Kurssille ilmoittautuminen tapahtuu sähköpostitse; saat sähköpostiisi
+      linkin, jonka avulla pääset kurssimateriaaliin. Ilmoittautuminen on täysin
+      ilmaista, enkä käytä sähköpostiasi mihinkään muuhun kuin kurssimateriaalin
+      lähettämiseen.
     actions: []
     type: section_content
     template: section_content
