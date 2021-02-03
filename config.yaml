@@ -64,13 +64,6 @@ params:
         style: icon
         icon_class: fa-linkedin
         new_window: true
-      - type: action
-        template: action
-        label: DEV
-        url: 'https://dev.to/'
-        style: icon
-        icon_class: fa-dev
-        new_window: true
   footer:
     type: footer
     template: footer
