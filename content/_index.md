@@ -26,6 +26,13 @@ sections:
         label: Contact Me
         url: /contact
         style: button
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        icon_class: lorem-ipsum
+        new_window: false
+        no_follow: false
+        type: action
   - type: section_posts
     template: section_posts
     title: Recent Posts
