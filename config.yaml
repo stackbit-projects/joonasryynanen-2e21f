@@ -60,7 +60,7 @@ params:
       - type: action
         template: action
         label: LinkedIn
-        url: 'https://www.linkedin.com/'
+        url: 'https://www.linkedin.com/in/joonasjjp97/'
         style: icon
         icon_class: fa-linkedin
         new_window: true
