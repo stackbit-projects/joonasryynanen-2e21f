@@ -44,7 +44,7 @@ sections:
     section_id: lorem-ipsum
     content: ''
     form_id: liity
-    form_action: tervetuloa
+    form_action: /virkean-opiskelun-abc/tervetuloa
     form_fields:
       - input_type: email
         name: email
