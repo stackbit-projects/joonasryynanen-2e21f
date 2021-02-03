@@ -3,7 +3,7 @@ title: 'Moduuli 2: Tasapainon ja sopivan vaihtelun löytäminen'
 hide_title: true
 excerpt: ''
 sections:
-  - title: Virkeän opiskelun ABC
+  - title: ''
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
