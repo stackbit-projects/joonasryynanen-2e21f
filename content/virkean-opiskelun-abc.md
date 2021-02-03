@@ -41,7 +41,7 @@ sections:
     actions: []
     type: section_content
     template: section_content
-  - title: Liity mukaan!
+  - title: Tervetuloa mukaan kurssille!
     section_id: lorem-ipsum
     content: ''
     form_id: liity
