@@ -50,7 +50,7 @@ sections:
       - input_type: email
         name: email
         label: 'sähköpostiosoite:'
-        default_value: kirjoita sähköpostiosoitteesi...
+        default_value: ''
         options: []
         is_required: false
         type: form_field
