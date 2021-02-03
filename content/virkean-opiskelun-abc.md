@@ -34,10 +34,9 @@ sections:
       ## Ilmoittautuminen
 
 
-      Kurssille ilmoittautuminen tapahtuu sähköpostitse; saat sähköpostiisi
-      linkin, jonka avulla pääset kurssimateriaaliin. Ilmoittautuminen on täysin
-      ilmaista, enkä käytä sähköpostiasi mihinkään muuhun kuin kurssimateriaalin
-      lähettämiseen.
+      Kurssille ilmoittautuminen tapahtuu sähköpostitse; tällä tavalla pidän
+      kirjaa osallistujien määrästä. En käytä sähköpostiasi markkinointiin tai
+      uutiskirjeiden lähettämiseen (ellet sitä erikseen halua).
     actions: []
     type: section_content
     template: section_content
