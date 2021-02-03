@@ -27,7 +27,7 @@ sections:
         url: /contact
         style: button
       - label: CV
-        url: lorem-ipsum
+        url: 'https://jonestpg.github.io/'
         style: button
         icon_class: lorem-ipsum
         new_window: false
