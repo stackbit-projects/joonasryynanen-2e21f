@@ -1,5 +1,5 @@
 ---
-title: Virkeän opiskelun ABC
+title: Kiitos kurssille osallistumisesta!
 hide_title: true
 excerpt: ''
 sections:
