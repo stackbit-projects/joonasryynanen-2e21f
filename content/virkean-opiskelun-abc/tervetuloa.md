@@ -1,6 +1,6 @@
 ---
 title: Tervetuloa
-subtitle: lorem-ipsum
+subtitle: ''
 excerpt: lorem-ipsum
 img_alt: Thank You Led Signage
 layout: page
