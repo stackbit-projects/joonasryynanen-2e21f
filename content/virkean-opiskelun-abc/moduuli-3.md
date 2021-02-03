@@ -6,36 +6,8 @@ sections:
   - title: ''
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >
-      Ilmainen nettikurssi parempaan jaksamiseen ja tehokkaampaan opiskeluun.
-      Voit suorittaa kurssia omaan tahtiin täysin ilmaiseksi.
-
-
-      ## Kurssin sisältö
-
-
-      Kurssi koostuu kolmesta moduulista:
-
-
-      *   Moduuli 1: Yleistä jaksamisesta ja virkeydestä
-
-
-      *   Moduuli 2: Tasapainon ja sopivan vaihtelun löytäminen
-
-
-      *   Moduuli 3: Etäopiskelu ja sen haasteet
-
-
-      Suosittelen suorittamaan moduulit järjestyksessä, mutta voit myös käydä ne
-      läpi kiinnostusjärjestyksessä!
-
-
-      ## Ilmoittautuminen
-
-
-      Kurssille ilmoittautuminen tapahtuu sähköpostitse; tällä tavalla pidän
-      kirjaa osallistujien määrästä. En käytä sähköpostiasi markkinointiin tai
-      uutiskirjeiden lähettämiseen (ellet sitä erikseen halua).
+    content: |
+      # Moduuli 3: Etäopiskelu ja sen haasteet
     actions: []
     type: section_content
     template: section_content
