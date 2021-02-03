@@ -5,6 +5,4 @@ layout: page
 ---
 Kiitos kurssille osallistumisesta! Klikkaa oheista linkkiä aloittaaksesi kurssin:
 
-
-
 <https://joonasryynanen.netlify.app/virkean-opiskelun-abc/moduuli-1>
