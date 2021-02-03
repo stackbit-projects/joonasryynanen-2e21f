@@ -3,7 +3,8 @@ title: Tervetuloa
 img_alt: Thank You Led Signage
 layout: page
 ---
+**Kiitos kurssille osallistumisesta! Klikkaa oheista linkkiä aloittaaksesi kurssin:
 
-Thank you for contacting me! I will get back in touch with you soon.
+**
 
-**Have a great day!**
+****<https://joonasryynanen.netlify.app/virkean-opiskelun-abc/moduuli-1>
