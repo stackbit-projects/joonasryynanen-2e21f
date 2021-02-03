@@ -39,7 +39,7 @@ params:
       - type: action
         template: action
         label: Twitter
-        url: 'https://twitter.com/'
+        url: 'https://twitter.com/JoonasJJP'
         style: icon
         icon_class: fa-twitter
         new_window: true
