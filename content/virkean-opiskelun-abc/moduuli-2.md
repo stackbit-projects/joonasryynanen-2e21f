@@ -1,5 +1,5 @@
 ---
-title: 'Moduuli 2: '
+title: 'Moduuli 2: Tasapainon ja sopivan vaihtelun löytäminen'
 hide_title: true
 excerpt: ''
 sections:
