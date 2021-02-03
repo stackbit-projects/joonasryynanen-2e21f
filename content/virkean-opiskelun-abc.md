@@ -45,7 +45,7 @@ sections:
     section_id: lorem-ipsum
     content: ''
     form_id: liity
-    form_action: aloita kurssi
+    form_action: aloita-kurssi
     form_fields:
       - input_type: email
         name: email
