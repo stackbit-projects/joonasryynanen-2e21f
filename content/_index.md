@@ -35,9 +35,8 @@ sections:
         type: action
   - title: ''
     section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    content: |
-      *
+    image_alt: timeline
+    content: ''
     actions: []
     type: section_content
     template: section_content
