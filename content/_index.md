@@ -33,16 +33,5 @@ sections:
         new_window: true
         no_follow: false
         type: action
-  - type: section_posts
-    template: section_posts
-    title: Recent Posts
-    section_id: recent-posts
-    posts_number: 4
-    actions:
-      - type: action
-        template: action
-        label: View Blog
-        url: blog/index.html
-        style: button
 layout: advanced
 ---
