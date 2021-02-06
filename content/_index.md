@@ -37,7 +37,7 @@ sections:
     section_id: lorem-ipsum
     image_alt: timeline
     content: |
-      # Feel free to reach out and discuss software with me!
+      #
     actions: []
     type: section_content
     template: section_content
