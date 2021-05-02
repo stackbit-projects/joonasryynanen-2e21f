@@ -3,7 +3,6 @@ canonical_url = ""
 content_img_alt = ""
 content_img_path = ""
 date = 2020-12-26T00:00:00Z
-draft = true
 excerpt = "When companies develop software products, it is rather common that the decisions regarding the implementation of new features is done based on different people's opinions. However, this can lead to suboptimal results. It is more efficient to lead development work based on data - this is called data-driven development."
 layout = "post"
 subtitle = ""

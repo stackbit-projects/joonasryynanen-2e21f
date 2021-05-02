@@ -49,5 +49,4 @@ fields:
   config:
     required: true
 pages:
-- content/posts/data-driven-development-develop-software-based-on-evidence-not-opinions-copy.md
 - content/posts/data-driven-development.md
