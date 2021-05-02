@@ -10,6 +10,7 @@ excerpt: >-
   is more efficient to lead development work based on data - this is called
   data-driven development.
 layout: post
+canonical_url: data-driven-development
 ---
 When companies develop software products, it is rather common that 
 the decisions regarding the implementation of new features is done based
