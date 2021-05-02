@@ -1,15 +1,18 @@
 ---
-title: 'Data-Driven Development - Develop software based on evidence, not opinions'
-date: '2020-12-26'
-thumb_img_alt: Hikers on the trail
-content_img_alt: Hikers on the trail
-excerpt: >-
-  When companies develop software products, it is rather common that the
-  decisions regarding the implementation of new features is done based on
-  different people's opinions. However, this can lead to suboptimal results. It
-  is more efficient to lead development work based on data - this is called
-  data-driven development.
+title: Data-Driven Development - Develop software based on evidence, not opinions
+date: 2020-12-26
+thumb_img_alt: ''
+content_img_alt: ''
+excerpt: When companies develop software products, it is rather common that the decisions
+  regarding the implementation of new features is done based on different people's
+  opinions. However, this can lead to suboptimal results. It is more efficient to
+  lead development work based on data - this is called data-driven development.
 layout: post
+subtitle: ''
+thumb_img_path: ''
+content_img_path: ''
+canonical_url: ''
+
 ---
 When companies develop software products, it is rather common that 
 the decisions regarding the implementation of new features is done based
