@@ -9,7 +9,7 @@ layout = "post"
 subtitle = ""
 thumb_img_alt = ""
 thumb_img_path = ""
-title = "Data-Driven Development - Develop software based on evidence, not opinions-(copy)"
+title = "Data-Driven Development - Develop software based on evidence, not opinions"
 
 +++
 When companies develop software products, it is rather common that 
