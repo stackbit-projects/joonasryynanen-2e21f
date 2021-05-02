@@ -41,6 +41,5 @@ sections:
     actions: []
     type: section_content
     template: section_content
-    image: /images/my-visual_951.png
 layout: advanced
 ---
