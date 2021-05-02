@@ -6,7 +6,11 @@ sections:
     template: section_form
     section_id: contact-form
     content: |
-      To get in touch please fill the form below.
+      To get in touch please contact me via email:
+
+
+
+      **joonas.ryynanen1@gmail.com**
     form_id: contactForm
     form_action: /thank-you
     form_fields:
