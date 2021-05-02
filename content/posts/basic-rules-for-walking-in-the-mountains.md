@@ -8,7 +8,9 @@ content_img_alt: Hikers on the trail
 excerpt: >-
   When companies develop software products, it is rather common that the
   decisions regarding the implementation of new features is done based on
-  different people's opinions. However, this can lead to suboptimal results.
+  different people's opinions. However, this can lead to suboptimal results. It
+  is more efficient to lead development work based on data - this is called
+  data-driven development.
 layout: post
 ---
 
