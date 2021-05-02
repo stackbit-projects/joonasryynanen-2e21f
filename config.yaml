@@ -24,6 +24,13 @@ params:
         label: Blog
         url: /blog/
         style: link
+      - label: Thoughts
+        url: thoughts
+        style: link
+        icon_class: lorem-ipsum
+        new_window: false
+        no_follow: false
+        type: action
       - type: action
         template: action
         label: About
@@ -34,13 +41,6 @@ params:
         label: Contact
         url: /contact/
         style: link
-      - label: Thoughts
-        url: thoughts
-        style: link
-        icon_class: lorem-ipsum
-        new_window: false
-        no_follow: false
-        type: action
     has_social: true
     social_links:
       - type: action
