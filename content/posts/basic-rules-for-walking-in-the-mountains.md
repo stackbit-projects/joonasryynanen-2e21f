@@ -1,7 +1,5 @@
 ---
-title: >-
-  Data-Driven Development - Develop software with based on evidence, not
-  opinions
+title: 'Data-Driven Development - Develop software based on evidence, not opinions'
 date: '2018-01-09'
 thumb_img_path: images/6.jpg
 thumb_img_alt: Hikers on the trail
