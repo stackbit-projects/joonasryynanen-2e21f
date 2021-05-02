@@ -35,7 +35,7 @@ params:
         url: /contact/
         style: link
       - label: Thoughts
-        url: lorem-ipsum
+        url: thoughts
         style: link
         icon_class: lorem-ipsum
         new_window: false
