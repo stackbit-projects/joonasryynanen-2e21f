@@ -26,13 +26,6 @@ sections:
         label: Contact Me
         url: /contact
         style: button
-      - label: CV
-        url: 'https://jonestpg.github.io/'
-        style: button
-        icon_class: lorem-ipsum
-        new_window: true
-        no_follow: false
-        type: action
   - title: ''
     section_id: lorem-ipsum
     image_alt: timeline
